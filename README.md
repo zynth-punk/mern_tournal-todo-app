@@ -1,3 +1,3 @@
-# tournal-todo-app
+# Tournal
 
 Todo app, currently in development
