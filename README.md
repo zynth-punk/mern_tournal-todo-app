@@ -1,3 +1,5 @@
 # Tournal
 
-Todo app, currently in development
+Todo app built in react.
+
+'''npm start'''
